@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "ssh://github.com/tomlovesgithub/testpkg/issues"
+    "url": "https://github.com/tomlovesgithub/testpkg/issues"
   },
   "homepage": "https://github.com/tomlovesgithub/testpkg#readme",
   "devDependencies": {
