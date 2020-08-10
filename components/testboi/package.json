@@ -4,5 +4,9 @@
     "publishConfig": {
         "access": "public"
     },
-    "gitHead": "7592b995cee24ac9e8f558c75056e23b737624bc"
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com:tomlovesgithub/testpkg.git"
+    },
+    "gitHead": "cc747b42decd393f024cb93baa0faafede3a51e0"
 }
